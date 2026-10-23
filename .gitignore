@@ -1,0 +1,17 @@
+# Compiled executable files
+
+*.exe
+
+# Debug files
+
+*.pdb
+*.ilk
+
+# Visual Studio Code workspace settings
+
+.vscode/
+
+# Temporary files
+
+*.tmp
+*.log
